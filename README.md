@@ -11,8 +11,9 @@
 
 
 ### Glad to see you here!  
-Ahmad Bilal is a Full Stack Software Engineer who loves open source. He is a Developer Advocacy Enthusiast and is currently working with the DevRel team at [RapidAPI](https://rapidapi.com/?) where he has planned and curated 120+ guides, dev-demos and interactive components. He writes a lot of JavaScript, Next.js, and MERN Stack while creating content to enable developers to be as excited as he is about these technologies.
 
-He has experience as a Next.js developer with React, TypeScript, Tailwind, Node, APIs, REST and GraphQL.
+I am is a Full Stack Software Engineer who loves open source. I'm currently working as the founding engineer at Langbase, building the best AI developer platform. I am also a Developer Advocate. I write a lot of JavaScript, Next.js, and MERN Stack while creating content to enable developers to be as excited as I am about these technologies.
+
+These days, my go-to stack is Next.js with React, TypeScript, Tailwind, REST/GraphQL APIs with Node backends.
 
 <br/>
