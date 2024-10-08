@@ -16,8 +16,8 @@ I am is a Full Stack Software Engineer who loves Open Source. I'm currently work
 
 I'm passionate about Open Source. I recently authored LangUI, which has garnered 2.5K stars and 200K+ users to date. Currently, I'm an active contributor to [BaseAI](https://baseai.dev/), driving innovation in AI development.
 
-I am also a Developer Advocate. I write a lot of JavaScript, Next.js, and MERN Stack while creating content to enable developers to be as excited as I am about these technologies.
+I am also a Developer Advocate. I write a lot of JavaScript, Next.js, and MERN Stack, creating content that inspires developers to be as excited as I am about these technologies.
 
-These days, my go-to stack is Next.js with React, TypeScript, Tailwind, REST/GraphQL APIs with all types of JS backend framworks inlcuding Hono, Express.
+These days, my go-to stack is Next.js with React, TypeScript, Tailwind, REST/GraphQL APIs with all types of JS backend framworks like Hono and Express.
 
 <br/>
